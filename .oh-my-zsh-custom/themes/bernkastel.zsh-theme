@@ -1,1 +1,1 @@
-../../.lib/bernkastel/bernkastel.zsh-theme
+/home/james/.lib/bernkastel/bernkastel.zsh-theme
