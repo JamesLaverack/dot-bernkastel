@@ -1,3 +1,0 @@
-[submodule ".lib/bernkastel"]
-	path = .lib/bernkastel
-	url = git@github.com:JamesLaverack/bernkastel.git
